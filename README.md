@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Rajveerhinge
-- 👀 I’m interested in programmind
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email:- crazycodewithrajveer@gmail.com
+- 📫 How to reach me Email:- crazycodewithrajveer@gmail.com 
+OR
+- 💻Instagram account:-https://www.instagram.com/rajveer_coder_programmer/
 
 <!---
 Rajveerhinge/Rajveerhinge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
